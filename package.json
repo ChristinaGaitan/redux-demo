@@ -11,5 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "redux": "^4.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.6.3"
   }
 }
